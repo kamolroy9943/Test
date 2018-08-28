@@ -1,0 +1,14 @@
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\bin\Debug\netcoreapp2.1\DatingApp.Api.deps.json
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\bin\Debug\netcoreapp2.1\DatingApp.Api.runtimeconfig.json
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\bin\Debug\netcoreapp2.1\DatingApp.Api.runtimeconfig.dev.json
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\bin\Debug\netcoreapp2.1\DatingApp.Api.dll
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\bin\Debug\netcoreapp2.1\DatingApp.Api.pdb
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.csprojAssemblyReference.cache
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.RazorAssemblyInfo.cache
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.RazorAssemblyInfo.cs
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.AssemblyInfoInputs.cache
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.AssemblyInfo.cs
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.dll
+C:\Users\Kamol Roy\Desktop\TestProject6\DatingApp.Api\obj\Debug\netcoreapp2.1\DatingApp.Api.pdb
